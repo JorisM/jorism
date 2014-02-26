@@ -12,7 +12,7 @@ tags: [Bejoo, Organisation]
 
 ######Bejoo unterstützt neu Tastenkürzel
 
-Die Tastenkürzel sind auf jeder Seite verfügbar damit sie schneller zwischen den Ansichten Einsatz erstellen, Einsätze anzeigen und alle Mitgliedern wechseln können.
+Die Tastenkürzel sind auf jeder Seite verfügbar damit Sie schneller zwischen den Ansichten Einsatz erstellen, Einsätze anzeigen und alle Mitgliedern wechseln können.
 
 	? → Hilfe aufrufen
 	a → Alle Einsätze anzeigen
