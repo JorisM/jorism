@@ -1,5 +1,5 @@
 ## Bejoo Blog
 
-![index page](http://bejoo.com)
+!(http://blog.bejoo.com)
 
 
