@@ -4,9 +4,9 @@ meta_description: "Bejoo and programming"
 
 markdown: redcarpet
 pygments: true
-logo: false
+logo: "assets/images/bejoo.svg"
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
+url:            'http://blog.bejoo.com'
 author:         'Joris Morger, Nicolas Gagliani'

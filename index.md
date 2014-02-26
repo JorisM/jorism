@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bejoo Blog
+title: Blog
 tagline: Neuigkeite, Tips und Tricks
 ---
 {% include JB/setup %}
