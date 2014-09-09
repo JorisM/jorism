@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Standardtext"
+description: "Neues Feature verfügar: Schichten"
+category: Bejoo
+author: Joris Morger
+author_image: jd.jpg
+
+tags: [Bejoo, Organisation]
+---
+{% include JB/setup %}
+
+######Bejoo unterstützt neu Standardtexte bei Emails
