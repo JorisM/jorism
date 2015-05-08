@@ -19,15 +19,20 @@ Dieser Artikel ist einen kurze Einführung in die Zeiterfassung von Bejoo. Dies 
 Sie schreiben einen Einsatz aus. Mitarbeiter schreiben sich ein, und nach erfolgreichem Abschluss des Einsatzes wollen sie die Buchhaltung nachführen. 
 
 Beispielsweise, dies ist die Situation vor dem Einsatz: 
-![zeiterfassung tutorial](/img/zeiterfassung/before.png)
+![zeiterfassung tutorial](/img/zeiterfassung/before.PNG)
 
 
 Nach dem erfolgreichen durchführen des Einsatzes, haben Sie zwei Optionen:
+
+
     - Option 1: Die Mitarbeiter tragen die Stunden selbständig ein und Sie überprüfen, korrigieren allenfalls, die Zeiten. 
+
     - Option 2: Sie tragen die Zeiten direkt für die Mitarbeiter ein.
 
 
+
 Ablauf Option 1:
+
 
 Nach dem Einsatz, sieht der Mitarbeiter die Aufforderung, dass er seine Zeiten eintragen soll
 ![zeiterfassung tutorial](/img/zeiterfassung/user_add_times1.PNG)
@@ -36,7 +41,7 @@ Der Mitarbeiter kann nun seinen Zeiten, inklusive Pausen, eintragen.
 ![zeiterfassung tutorial](/img/zeiterfassung/user_add_times2.PNG)
 
 
-Nach dem eintragen, wartet der Mitarbeiter auf die Bestätigung der Organisation 
+Nach dem Eintragen, wartet der Mitarbeiter auf die Bestätigung der Organisation 
 ![zeiterfassung tutorial](/img/zeiterfassung/user_add_times3.PNG)
 
 
