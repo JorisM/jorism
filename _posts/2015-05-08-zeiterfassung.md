@@ -19,7 +19,7 @@ Dieser Artikel ist einen kurze Einführung in die Zeiterfassung von Bejoo. Dies 
 Sie schreiben einen Einsatz aus. Mitarbeiter schreiben sich ein, und nach erfolgreichem Abschluss des Einsatzes wollen sie die Buchhaltung nachführen. 
 
 Beispielsweise, dies ist die Situation vor dem Einsatz: 
-![Standardtext hinzufügen](/img/zeiterfassung/before.png)
+![zeiterfassung tutorial](/img/zeiterfassung/before.png)
 
 
 Nach dem erfolgreichen durchführen des Einsatzes, haben Sie zwei Optionen:
@@ -30,15 +30,39 @@ Nach dem erfolgreichen durchführen des Einsatzes, haben Sie zwei Optionen:
 Ablauf Option 1:
 
 Nach dem Einsatz, sieht der Mitarbeiter die Aufforderung, dass er seine Zeiten eintragen soll
-![Standardtext hinzufügen](/img/zeiterfassung/user_.png)
+![zeiterfassung tutorial](/img/zeiterfassung/user_add_times1.PNG)
+
+Der Mitarbeiter kann nun seinen Zeiten, inklusive Pausen, eintragen. 
+![zeiterfassung tutorial](/img/zeiterfassung/user_add_times2.PNG)
+
+
+Nach dem eintragen, wartet der Mitarbeiter auf die Bestätigung der Organisation 
+![zeiterfassung tutorial](/img/zeiterfassung/user_add_times3.PNG)
+
+
+Nun können Sie als Organisation, die Zeiten der Mitarbeiter bestätigen. Navigieren Sie zu Vergangen Einsätze und wählen Sie den Einsatz aus.
+![zeiterfassung tutorial](/img/zeiterfassung/organisation_add_times1.PNG)
+
+
+ Wenn des Häckchen beim Mitarbeiter orange ist, hat der Mitarbeiter seine Zeiten bereits eingetragen. Mit einem Klick auf das Häckchen, bestätigen Sie die Eingabe. 
+![zeiterfassung tutorial](/img/zeiterfassung/organisation_add_times2.PNG)
+
+Gratulation, die Zeiten sind nun erfolgreich erfasst!
+
+
+Option 2:
+
+Sie können die Zeiten auch selbst direkt eintragen. Dafür klicken Sie in der Vergangen Einsatz Ansicht bei einem Mitarbeiter auf das Stift Symbol. Es öffnet sich ein Modalfenster, indem Sie Zeiten eintragen können. 
+![zeiterfassung tutorial](/img/zeiterfassung/organisation_option2_1.PNG)
+
+
+Der Mitarbeiter sieht anschliessend eine Bestätigung
+![zeiterfassung tutorial](/img/zeiterfassung/user_add_times4.PNG)
 
 
 
-
-
-
-
-Warnung Monatsbeginn
+Beachten Sie, dass Sie den Monatsbeginn für die Buchhaltung ihrer Organisation in Ihrem Profil unter Account -> Meine Organisation setzen können. 
+![zeiterfassung tutorial](/img/zeiterfassung/monatsbeginn.PNG)
 
 
 
