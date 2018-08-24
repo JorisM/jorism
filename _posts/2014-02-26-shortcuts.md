@@ -10,7 +10,7 @@ tags: [Bejoo, Organisation]
 ---
 {% include JB/setup %}
 
-# Bejoo unterstützt neu Tastenkürzel
+###Bejoo unterstützt neu Tastenkürzel
 
 Die Tastenkürzel sind auf jeder Seite verfügbar damit Sie schneller zwischen den Ansichten Einsatz erstellen, Einsätze anzeigen und alle Mitgliedern wechseln können.
 

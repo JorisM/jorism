@@ -10,7 +10,7 @@ tags: [Bejoo, Organisation]
 ---
 {% include JB/setup %}
 
-# Bejoo unterstützt neu Standard-Texte bei Emails
+###Bejoo unterstützt neu Standard-Texte bei Emails
 
 
 Wenn Sie ein Email über Bejoo versenden, ist es neu möglich Texte zu hinterlegen um diese später beim Emailversand auszuwählen. Dies erspart Ihnen administrative Zeit, falls Sie Nachrichten mehrfach versenden möchten oder Ihren Mitarbeitern allgemeine Infos zukommen lassen.
