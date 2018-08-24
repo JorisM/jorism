@@ -10,7 +10,7 @@ tags: [Bejoo, Organisation]
 ---
 {% include JB/setup %}
 
-###Bejoo Zeiterfassung
+### Bejoo Zeiterfassung
 
 
 Dieser Artikel ist einen kurze Einführung in die Zeiterfassung von Bejoo. Dies gilt nur für Organisationen, welche die Zeiterfassung aktiviert haben.

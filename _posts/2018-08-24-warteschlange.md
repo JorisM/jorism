@@ -10,7 +10,7 @@ tags: [Bejoo, Organisation]
 ---
 {% include JB/setup %}
 
-###Neue Einstellung für die Warteschlange
+### Neue Einstellung für die Warteschlange
 
 Als Organisation haben Sie neu die Möglichkeit, die Anzahl verfügbaren Plätze in der Warteschlange genauer zu definieren. Unter den Einstellungen [https://www.bejoo.com/de/organisation/organisation/edit/edit](https://www.bejoo.com/de/organisation/organisation/edit/edit) finden Sie neu folgende Optionen:
 
