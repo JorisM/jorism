@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Einstellungen - Warteschlange"
+title: "Warteschlange"
 description: "Bessere Kontrolle über die Warteschlange"
 category: Bejoo
 author: Joris Morger
