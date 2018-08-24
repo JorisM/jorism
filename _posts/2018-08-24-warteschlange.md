@@ -16,6 +16,4 @@ Als Organisation haben Sie neu die Möglichkeit, die Anzahl verfügbaren Plätze
 
 ![warteschlange](/img/warteschlange/warteschlange.png)
 
-Somit können Sie bei grösseren Einsätzen
-
 Bei Fragen oder Ergänzungen, kontaktieren Sie uns unter info@bejoo.com
